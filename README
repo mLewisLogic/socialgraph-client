@@ -1,0 +1,5 @@
+Prerequisites:
+as3corelib [http://github.com/mikechambers/as3corelib]
+Flare [http://flare.prefuse.org/] (tested with alpha 2009.01.24)
+
+The socialgraph-server has to be running (with MongoDB) in order for the client to work
